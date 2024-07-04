@@ -1,27 +1,6 @@
-<!--- PrjInfo ---> <!--- Please remove this line after manually editing --->
-<!--- 00a56be08b96043df9e37d6aff7b6990 --->
-<!--- Created:20170112-18:22: ---> 
-<!--- Author:Mlab: ---> 
-<!--- AuthorEmail:mlab@mlab.cz: ---> 
-<!--- Tags:imported: ---> 
-<!--- Ust:None: ---> 
-<!--- Name:TTLPROBE01A: --->
-#TTLPROBE01A 
-<!--- LongName --->
-Logic probe.
-<!--- ELongName ---> 
+# TTLPROBE01A - Logic probe
 
-<!--- Lead --->
+The logic probe displays the H and L logic states and the indeterminate X state of TTL logic on three LEDs. The logic probe displays short pulses on the input so that they are visible."
 
-<!--- ELead ---> 
-
-![LeadImg](TTLPROBE01A_Small.jpg) 
-
-
-​
-​
-<!--- Description --->
-<!--- EDescription --->
-<!--- Content --->
-<!--- EContent --->
+![TTLPROBE01A](doc/img/TTLPROBE01A_small.jpg) 
             
